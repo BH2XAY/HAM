@@ -1,1 +1,2 @@
-中华人民共和国软
+Hello, this is amateur radio enthusiast BH2XAY,
+Regularly update the software download for Treasure.
